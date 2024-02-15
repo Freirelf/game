@@ -55,7 +55,7 @@ body {
   background-color: #b44248;
 }
 
-.gameOver {
+#gameOver {
   position: absolute;
   width: 100%;
   height: 100%;
